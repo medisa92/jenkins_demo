@@ -11,6 +11,11 @@ variable vcn {
   
 }
 
+variable "private_key_path" {
+  type    = string
+  default = "~/.oci/oci_api_key.pem"
+}
+
 # variable subnets {
 #   type    = list
 # }
