@@ -1,0 +1,3 @@
+# VCN Module
+ 
+Module for creation of VCN in OCI.
